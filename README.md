@@ -1,5 +1,4 @@
 # hello-world
-just another resposiroty
 
 hi world!
 
